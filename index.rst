@@ -32,6 +32,16 @@ ij.start.canon || Download & Install Canon Printer Software
 
 **Step by Step Canon printer drivers downloads and installation is shown here, follow instructions mentioned below;**
 
+|
+
+.. image:: get-started-today.png
+    :width: 300px
+    :align: center
+    :height: 100px
+    :alt: ij.start.canon
+    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+| 
+
 1. Ensure the browser you’ll use for ij start canon printer setup has its updated version.
 2. Go through ij.start.canon (secure) site and click **“Set Up (Start Here)”** tab.
 3. Move ahead to the next page, where you need to enter the Canon printer model.
