@@ -6,11 +6,11 @@ Get Canon help from ij.start.canon and set up Canon printer. Learn the complete 
 
 |
 
-.. image:: stars.jpg
-    :width: 200px
+.. image:: get-started-today.png
+    :width: 300px
     :align: center
     :height: 100px
-    :alt: alternate text
+    :alt: ij.start.canon
     :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
 |    
 
