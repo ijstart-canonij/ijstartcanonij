@@ -1,8 +1,9 @@
+
 #############
 ij.start.canon
 #############
 
-Get Canon help from ij.start.canon and set up Canon printer. Learn the complete Canon ij setup download and installation process here. Know more about Canon PIXMA, imagePROGRAF, MAXIFY, CanoScan, and others.
+Get Canon help from `ij.start.canon <https://ijstartcanon-ij.readthedocs.io/en/latest/index.html>`_ and set up Canon printer. Learn the complete **Canon ij setup** download and installation process here. Know more about Canon PIXMA, imagePROGRAF, MAXIFY, CanoScan, and others.
 
 |
 
@@ -17,7 +18,7 @@ Get Canon help from ij.start.canon and set up Canon printer. Learn the complete 
 *************
 ij.start.canon || Set Up Canon PrinterSet Up Canon Printer || https ij start setup
 *************
-Visit ij.start.canon and find out the best way to download Canon printer drivers. Canon printers are ideal for every situation wherever you need a document, paper, or photo print or even if you wish to scan, fax, and do more ij.start.canon will make you learn how to set up a canon printer to get advanced printing features. To complete your Canon ij printer setup with several connectivity options like WiFi, USB, Bluetooth, and others, see and follow below mentioned steps.
+Visit ij.start.canon and find out the best way to download Canon printer drivers. Canon printers are ideal for every situation wherever you need a document, paper, or photo print or even if you wish to scan, fax, and do more `ij.start.canon <https://ijstartcanon-ij.readthedocs.io/en/latest/index.html>`_ will make you learn how to set up a canon printer to get advanced printing features. To complete your Canon ij printer setup with several connectivity options like WiFi, USB, Bluetooth, and others, see and follow below mentioned steps.
 
 1. Open ij.start.canon url.
 2. Enter the printer model and download drivers.
@@ -32,13 +33,13 @@ ij.start.canon || Download & Install Canon Printer Software
 **Step by Step Canon printer drivers downloads and installation is shown here, follow instructions mentioned below;**
 
 1. Ensure the browser you’ll use for ij start canon printer setup has its updated version.
-2. Go through ij.start.canon (secure) site and click “Set Up (Start Here)” tab.
+2. Go through ij.start.canon (secure) site and click **“Set Up (Start Here)”** tab.
 3. Move ahead to the next page, where you need to enter the Canon printer model.
-4. You also can choose the first two letters of your Canon ij printer from shown list on ij.start.canon screen.
+4. You also can choose the first two letters of your Canon ij printer from shown list on `ij.start.canon <https://ijstartcanon-ij.readthedocs.io/en/latest/index.html>`_ screen.
 5. Click “Start”.
 6. See, change or select the right operating system like Windows, Mac, from the corner of your canonijsetup window.
 7. Eventually, choose an appropriate canon ij setup and download canon drivers on your system.
-8. After software download from ij.start.canon, open downloads folder, and double-click on setup file to install the Canon printer software.
+8. After software download from **ij.start.canon**, open downloads folder, and double-click on setup file to install the Canon printer software.
 9. Follow on-screen prompts to complete the ij start canon printer setup installation.
 
 *************
@@ -47,7 +48,7 @@ Set Up Canon Printer || ij.start.canon
 
 **ij.start.canon :**  Setting up your canon printer will take a few moments to get ready. However, it’s important to connect your inkjet printer and PC, Laptop with a wireless connection. If your printer is prepared for installation and setup, then follow below steps;
 
-1. Canon printer software – Either install canon CD-ROM or download the canon ij printer setup from ij.start.canon.
+1. Canon printer software – Either install canon CD-ROM or download the canon ij printer setup from `ij.start.canon <https://ijstartcanon-ij.readthedocs.io/en/latest/index.html>`_.
 2. Connect to WiFi –  On your IJ printer, press the WiFi button until you see a stable orange alarm flashlight.
 3. Wireless router –  Press the WPS button on the nearby wireless router and wait for the alarm flash to be steady green and blue lights.
 4. Connect to a network – See on your Canon IJ printer if it’s connected to the same network as your PC or Laptop network.
