@@ -34,12 +34,13 @@ ij.start.canon || Download & Install Canon Printer Software
 
 |
 
-.. image:: get-started-today.png
+.. image:: Download Canon.jpg
     :width: 300px
     :align: center
     :height: 100px
     :alt: ij.start.canon
-    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+    :target: https://ijstartcanon-ij.readthedocs.io/en/latest/index.html
+    
 | 
 
 1. Ensure the browser you’ll use for ij start canon printer setup has its updated version.
