@@ -4,6 +4,16 @@ ij.start.canon
 
 Get Canon help from ij.start.canon and set up Canon printer. Learn the complete Canon ij setup download and installation process here. Know more about Canon PIXMA, imagePROGRAF, MAXIFY, CanoScan, and others.
 
+|
+
+.. image:: stars.jpg
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: alternate text
+    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+|    
+
 *************
 ij.start.canon || Set Up Canon PrinterSet Up Canon Printer || https ij start setup
 *************
